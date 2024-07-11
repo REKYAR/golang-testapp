@@ -1,4 +1,4 @@
-package poker
+package tservlib
 
 import (
 	"os"

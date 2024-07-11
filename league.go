@@ -1,4 +1,4 @@
-package poker
+package tservlib
 
 type League []Player
 
